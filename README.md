@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhi2k1
+- 👋 Hi, I’m Abhishek Gupta
 - 👀 I’m interested in Software Developement
 - 🌱 I’m currently learning Backend Technologies
 - 💞️ I’m looking to collaborate on Backend Development
